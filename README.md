@@ -31,7 +31,7 @@ No mundo moderno das transações financeiras e comerciais, a eficiência e a co
 
 # 🔎 Fluxograma do Projeto
 
-![arquitetura do projeto](https://cdn.discordapp.com/attachments/1177358716933247096/1204865220405755924/Diagrama.pikachu.drawio_4.png?ex=65d6492d&is=65c3d42d&hm=5906f7f974e929b0b1829b93df539842ee184dc08a23adc36d7f1533bf26f9ee&)
+![arquitetura do projeto](https://cdn.discordapp.com/attachments/1203809299223154698/1203809601280147466/Diagrama.pikachu.drawio.png?ex=6635fb4e&is=6634a9ce&hm=ee7935a1bac9d389b210db8ffc25619d081b2541db77fa307864c7a0603a0bee&)
  </div>
  
  <br>
